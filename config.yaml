@@ -1,0 +1,7 @@
+moderation:
+  check_toxicity: true
+  check_pii: true
+  check_jailbreak: true
+rag:
+  enabled: true
+  top_k: 2
